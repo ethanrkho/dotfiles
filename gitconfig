@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ethanrkho@gmail.com
+	name = Ethan Kho ethanrkho@gmail.com
